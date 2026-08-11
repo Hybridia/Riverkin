@@ -1,0 +1,100 @@
+/* The pages Apple asks for, wearing the app's own paper and river colours. */
+
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:600;font-display:swap;
+  src:url(fonts/Fraunces-600-latin.woff2) format('woff2')}
+@font-face{font-family:'Space Mono';font-style:normal;font-weight:400;font-display:swap;
+  src:url(fonts/SpaceMono-400-latin.woff2) format('woff2')}
+
+:root{
+  --paper:#F9F6FA; --card:#FFFFFF; --ink:#291930; --mist:#6E5A76; --faint:#9C8BA4;
+  --rule:rgba(70,45,80,.13); --edge:rgba(70,45,80,.09);
+  --accent:#8A3C9E; --tint:rgba(138,60,158,.09);
+  --teal:#2F9482; --blue:#3B5FBF; --violet:#8A3C9E;
+  --shadow:0 1px 2px rgba(70,45,80,.05), 0 8px 24px -12px rgba(70,45,80,.16);
+  --display:'Fraunces',Georgia,serif;
+  --ui:-apple-system,BlinkMacSystemFont,'SF Pro Text',Segoe UI,system-ui,sans-serif;
+  --mono:'Space Mono',ui-monospace,SFMono-Regular,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#061318; --card:#0C1D22; --ink:#DCE9E9; --mist:#8AA5AB; --faint:#5F7B82;
+    --rule:rgba(150,214,222,.16); --edge:rgba(150,214,222,.10);
+    --accent:#C77BDC; --tint:rgba(199,123,220,.13);
+    --teal:#54C9B2; --blue:#7C9BF0; --violet:#C77BDC;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 26px -14px rgba(0,0,0,.7);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#061318; --card:#0C1D22; --ink:#DCE9E9; --mist:#8AA5AB; --faint:#5F7B82;
+  --rule:rgba(150,214,222,.16); --edge:rgba(150,214,222,.10);
+  --accent:#C77BDC; --tint:rgba(199,123,220,.13);
+  --teal:#54C9B2; --blue:#7C9BF0; --violet:#C77BDC;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 26px -14px rgba(0,0,0,.7);
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:var(--ui); font-size:17px; line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:680px; margin:0 auto; padding:0 24px 90px;
+  display:flex; flex-direction:column; gap:40px}
+
+/* --- the head: the three currents the app opens with --- */
+header{padding-top:54px; display:flex; flex-direction:column; gap:20px}
+.currents{width:100%; max-width:260px; height:34px; display:block}
+.wordmark{
+  font-family:var(--ui); font-weight:300; font-size:1.32rem;
+  letter-spacing:.3em; text-transform:uppercase; margin:0; color:var(--ink);
+}
+h1{
+  font-family:var(--display); font-weight:600; font-size:clamp(1.9rem,5.5vw,2.6rem);
+  letter-spacing:-.025em; line-height:1.08; margin:0; text-wrap:balance;
+}
+.standfirst{margin:0; color:var(--mist); max-width:58ch}
+.dateline{
+  font-family:var(--mono); font-size:.68rem; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--faint); margin:0;
+}
+
+section{display:flex; flex-direction:column; gap:14px}
+h2{
+  font-family:var(--display); font-weight:600; font-size:1.32rem; letter-spacing:-.02em;
+  margin:0; padding-bottom:9px; border-bottom:1px solid var(--rule); text-wrap:balance;
+}
+h3{
+  font-family:var(--ui); font-weight:600; font-size:1.02rem; margin:0 0 2px;
+  letter-spacing:-.01em;
+}
+p{margin:0; max-width:64ch}
+p + p{margin-top:12px}
+a{color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2px}
+a:focus-visible{outline:2px solid var(--accent); outline-offset:3px; border-radius:3px}
+strong{font-weight:600}
+
+/* --- a question and its answer --- */
+.qa{
+  background:var(--card); border:1px solid var(--edge); border-radius:14px;
+  box-shadow:var(--shadow); padding:17px 19px;
+}
+.qa + .qa{margin-top:12px}
+.qa p{color:var(--mist)}
+
+/* --- the plain statement a privacy page is mostly made of --- */
+.claim{
+  background:var(--tint); border-radius:14px; padding:20px 22px;
+  font-family:var(--display); font-size:1.2rem; line-height:1.4; letter-spacing:-.01em;
+}
+ul{margin:0; padding-left:1.15em; color:var(--mist); display:flex; flex-direction:column; gap:7px}
+li{max-width:60ch}
+li strong{color:var(--ink)}
+
+footer{
+  border-top:1px solid var(--rule); padding-top:22px; color:var(--faint);
+  font-family:var(--mono); font-size:.7rem; letter-spacing:.1em; text-transform:uppercase;
+  display:flex; flex-wrap:wrap; gap:8px 18px; align-items:baseline;
+}
+footer a{color:var(--mist); text-decoration:none}
+footer a:hover{color:var(--accent)}
