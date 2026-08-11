@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Riverkin — Support and privacy</title>
+<meta name="description" content="Help with Riverkin, and what it does with what you type: nothing leaves your phone unless you send it.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <svg class="currents" viewBox="0 0 260 34" fill="none" aria-hidden="true">
+    <path d="M0 10 C 52 2, 96 18, 148 9 S 230 3, 260 7" stroke="var(--teal)" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M0 18 C 56 11, 104 25, 156 17 S 234 13, 260 16" stroke="var(--blue)" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M0 26 C 48 22, 112 32, 164 26 S 238 24, 260 27" stroke="var(--violet)" stroke-width="2.2" stroke-linecap="round"/>
+  </svg>
+  <p class="wordmark">Riverkin</p>
+
+  <!-- The app's own segmented control, the one over the river. -->
+  <div class="seg" role="tablist" aria-label="Support or privacy">
+    <button role="tab" id="tab-support" aria-controls="panel-support" aria-selected="true">Support</button>
+    <button role="tab" id="tab-privacy" aria-controls="panel-privacy" aria-selected="false">Privacy</button>
+  </div>
+</header>
+
+<!-- ====================== support ====================== -->
+<div class="panel" id="panel-support" role="tabpanel" aria-labelledby="tab-support">
+
+  <section>
+    <h1>Support</h1>
+    <p class="standfirst">Riverkin draws your family as a river: everyone stands at the year
+      they were born, and the lines run from parents to children. It works entirely on your
+      own phone.</p>
+  </section>
+
+  <section>
+    <h2>Write to us</h2>
+    <p>Anything at all — a question, something that looks wrong, a relationship the app has
+      worked out badly, or a word that reads oddly in Dutch.</p>
+    <!-- REPLACE the address here and in the Privacy panel below with your own -->
+    <p><a href="mailto:you@example.com">you@example.com</a></p>
+    <p>It helps to say which phone you are on, whether the app is in English or Dutch, and
+      what you were doing at the time. Please do not send us your family file unless we ask —
+      we would rather not have it.</p>
+  </section>
+
+  <section>
+    <h2>Questions people ask</h2>
+
+    <div class="qa">
+      <h3>Someone sent me a family file. How do I open it?</h3>
+      <p>Tap the file wherever it arrived — Messages, Mail, AirDrop, Files — and choose
+        Riverkin. The app shows you what is in it before anything is added, and you decide
+        whether to open it.</p>
+    </div>
+
+    <div class="qa">
+      <h3>I already have people. Will opening a file overwrite them?</h3>
+      <p>No. Riverkin matches people up by name and date of birth, adds the ones you were
+        missing and fills in the dates you did not have. Where your copy and theirs disagree
+        about something, it asks you which is right instead of deciding for you.</p>
+    </div>
+
+    <div class="qa">
+      <h3>How do I give my family to somebody else?</h3>
+      <p>Two ways. Share the file — it goes by AirDrop, mail, message, or into Files like any
+        other document. Or, if you are sitting together, show the codes on your screen and let
+        the other phone read them with its camera. Nothing goes over the internet either way.</p>
+    </div>
+
+    <div class="qa">
+      <h3>I am getting a new phone. How do I take the family with me?</h3>
+      <p>Share the file to yourself — mail it, or drop it in Files or iCloud Drive — and open
+        it on the new phone. Do this now and then anyway: a family that exists only inside one
+        app on one phone is one lost phone away from gone.</p>
+    </div>
+
+    <div class="qa">
+      <h3>Why does it say “your first cousin, two generations younger”?</h3>
+      <p>Because that is clearer than “twice removed”. First cousins share a grandparent; the
+        generations tell you how far apart the two of you stand, and which way. Set who you
+        are in Settings and every person carries their tie to you.</p>
+    </div>
+
+    <div class="qa">
+      <h3>A relationship is wrong.</h3>
+      <p>Riverkin works every tie out from the parents, so a wrong answer nearly always means
+        a wrong parent, a missing marriage, or two people who ought to be one. Open “How we
+        are related” to see the path it walked — the mistake is usually visible on it. Saying
+        whether someone is a woman or a man also lets it say niece rather than niece or
+        nephew.</p>
+    </div>
+
+    <div class="qa">
+      <h3>Can I keep my mother's side and my father's side apart?</h3>
+      <p>Yes. Keep them as two families and switch between them in the river. Each one has its
+        own first generation and its own idea of who you are.</p>
+    </div>
+
+    <div class="qa">
+      <h3>How do I stop other people reading it?</h3>
+      <p>Settings → Privacy → Lock the app. It then asks for Face ID, Touch ID or your
+        passcode, and covers itself when you switch apps so the family is not sitting in the
+        app switcher.</p>
+    </div>
+
+    <div class="qa">
+      <h3>Does it need the internet?</h3>
+      <p>Never. There is no account and no server. The app works the same in aeroplane mode as
+        it does at home.</p>
+    </div>
+
+    <div class="qa">
+      <h3>Which languages does it speak?</h3>
+      <p>English and Dutch, throughout — including the words for relatives that the two
+        languages do not divide up the same way. It follows your phone the first time and can
+        be changed in Settings.</p>
+    </div>
+
+    <div class="qa">
+      <h3>Is there an iPad version?</h3>
+      <p>The same app runs on iPad, and the river has a great deal more room there.</p>
+    </div>
+  </section>
+</div>
+
+<!-- ====================== privacy ====================== -->
+<div class="panel" id="panel-privacy" role="tabpanel" aria-labelledby="tab-privacy">
+
+  <section>
+    <h1>Privacy</h1>
+    <p class="dateline">In force from 11 August 2026 · Riverkin 1.0</p>
+  </section>
+
+  <p class="claim">Riverkin collects nothing. There is no account to make, no server to send
+    anything to, and the app makes no network requests at all — not for analytics, not for
+    crash reports, not for anything.</p>
+
+  <section>
+    <h2>What the app holds, and where</h2>
+    <p>Everything you type — names, dates, relationships, telephone numbers, e-mail
+      addresses, addresses, godparents, notes of who has died — is written into Riverkin's own
+      storage on your device and stays there. It is not readable by other apps. We never see
+      it, because there is nowhere for it to reach us.</p>
+    <p>Deleting the app deletes all of it. There is no copy anywhere else, so keep a family
+      file somewhere safe if you would mind losing it.</p>
+  </section>
+
+  <section>
+    <h2>What leaves your phone, and only when you send it</h2>
+    <p>A family leaves your device in exactly two ways, both of which you start:</p>
+    <ul>
+      <li><strong>A file you share.</strong> When you export a family, iOS hands the file to
+        whichever app or person you choose — AirDrop, Mail, Messages, Files. From that moment
+        it is in their hands and under their terms, not ours. You can leave the telephone
+        numbers and addresses out of the file when you share it.</li>
+      <li><strong>Codes on your screen.</strong> Holding the family up as codes for another
+        phone's camera puts it on your own screen and nowhere else. Nothing is transmitted,
+        and the two phones do not need a network — or even each other's names.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Permissions the app asks for</h2>
+    <ul>
+      <li><strong>Camera</strong> — only to read a family code held up by another phone. The
+        camera view is not recorded, saved or sent anywhere, and the app never asks for the
+        photo library.</li>
+      <li><strong>Face ID or Touch ID</strong> — only if you turn the lock on. iOS performs
+        the check and tells the app yes or no; the app never receives your face, your
+        fingerprint or your passcode.</li>
+      <li><strong>Notifications</strong> — only if you turn birthday reminders on. They are
+        scheduled on the device by the device. No reminder passes through a server, and
+        nothing is sent to Apple's push service.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Tapping a number or an address</h2>
+    <p>When you tap someone's telephone number, e-mail address or home address, Riverkin hands
+      it to iOS, which opens the Phone, Messages, Mail or Maps app. What happens after that
+      belongs to those apps and to Apple. Riverkin itself does not dial, send or look
+      anything up.</p>
+  </section>
+
+  <section>
+    <h2>Backups</h2>
+    <p>Riverkin's storage sits inside the app's own container, which means it is included in
+      whatever backup you already make of your iPhone — iCloud or a computer. Those backups
+      are Apple's, made under your own account and its protections, and they are the one place
+      your family exists outside the app. If you would rather it were not there, you can
+      exclude Riverkin from iCloud backup in Settings.</p>
+  </section>
+
+  <section>
+    <h2>Nobody else is involved</h2>
+    <p>Riverkin contains no advertising, no analytics, no trackers and no third-party
+      software development kits. Nothing about you is sold, shared or profiled, because
+      nothing about you is gathered in the first place. In App Store terms, the app's data
+      collection is <strong>Data Not Collected</strong>.</p>
+  </section>
+
+  <section>
+    <h2>Children</h2>
+    <p>A family tree tends to be full of children, and the app is rated 4+. The same thing is
+      true of their details as everyone else's: they are held on the device of the person who
+      typed them, and nothing is collected from anyone.</p>
+  </section>
+
+  <section>
+    <h2>If this changes</h2>
+    <p>If a later version of Riverkin ever does something this page does not describe, this
+      page will be rewritten before that version is released, and the date at the top will
+      say so.</p>
+  </section>
+
+  <section>
+    <h2>Getting in touch</h2>
+    <!-- REPLACE the address here and in the Support panel above with your own -->
+    <p>Questions about any of this: <a href="mailto:you@example.com">you@example.com</a></p>
+  </section>
+</div>
+
+<footer>
+  <span>Riverkin 1.0</span>
+  <span>Everything on this page is true of version 1.0 and of every version before it.</span>
+</footer>
+
+</div>
+
+<script>
+/* Two panels, one page. Without this script both simply show, which is the
+   right thing for anything that cannot run it — a reader, a crawler, Apple's
+   reviewer with a strict browser. */
+(function(){
+  var tabs = [].slice.call(document.querySelectorAll('[role="tab"]'));
+  document.body.classList.add('tabbed');
+
+  function show(name, remember){
+    tabs.forEach(function(tab){
+      var on = tab.id === 'tab-' + name;
+      tab.setAttribute('aria-selected', on ? 'true' : 'false');
+      tab.tabIndex = on ? 0 : -1;
+      document.getElementById(tab.getAttribute('aria-controls')).hidden = !on;
+    });
+    /* the privacy policy needs a link of its own to hand to the App Store */
+    if(remember) history.replaceState(null, '', name === 'privacy' ? '#privacy' : '#support');
+  }
+
+  tabs.forEach(function(tab, i){
+    tab.addEventListener('click', function(){
+      show(tab.id.slice(4), true);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    tab.addEventListener('keydown', function(e){
+      if(e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+      e.preventDefault();
+      var next = tabs[(i + (e.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length];
+      next.focus();
+      show(next.id.slice(4), true);
+    });
+  });
+
+  show(location.hash === '#privacy' ? 'privacy' : 'support', false);
+  window.addEventListener('hashchange', function(){
+    show(location.hash === '#privacy' ? 'privacy' : 'support', false);
+  });
+})();
+</script>
+</body>
+</html>
