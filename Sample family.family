@@ -1,0 +1,1194 @@
+{
+ "format": "riverkin.family",
+ "version": 1,
+ "updated": "2026-08-11T09:00:00.000Z",
+ "author": "Sample",
+ "root": {
+  "n": "Bompa & Bomma",
+  "sur": ""
+ },
+ "contacts": true,
+ "people": [
+  {
+   "n": "Jozef",
+   "sur": "Vermeulen",
+   "g": "m",
+   "b": "1919-08-28",
+   "dod": "1998-09-28",
+   "mtr": "Emma Vermeulen",
+   "ptr": "Achiel Vermeulen",
+   "u": [
+    {
+     "sp": {
+      "n": "Fien",
+      "sur": "Cools",
+      "g": "f",
+      "b": "1922-04-17",
+      "dod": "2016-04-13"
+     },
+     "k": [
+      {
+       "n": "Wout",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1946-11-24",
+       "u": [
+        {
+         "sp": {
+          "n": "Martine",
+          "sur": "Maes",
+          "g": "f",
+          "b": "1945-05-14"
+         },
+         "k": [
+          {
+           "n": "Katrien",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1975-03-10",
+           "u": [
+            {
+             "sp": {
+              "n": "Arne",
+              "sur": "Maes",
+              "g": "m",
+              "b": "1974-01-15"
+             },
+             "k": [
+              {
+               "n": "Thomas",
+               "sur": "Aerts",
+               "g": "m",
+               "b": "2001-07-25",
+               "m": "0481 / 37 85 40",
+               "e": "thomas.aerts@telenet.be"
+              },
+              {
+               "n": "Vic",
+               "sur": "Aerts",
+               "g": "m",
+               "b": "2004-01-07"
+              }
+             ],
+             "st": "together",
+             "tel": "051 / 64 14 32",
+             "adr": "69 Statiestraat, 2000 Antwerpen"
+            }
+           ],
+           "m": "0481 / 59 79 29",
+           "e": "katrien.vermeulen@telenet.be",
+           "tel": "052 / 21 68 46",
+           "adr": "3 Vaartstraat, 8500 Kortrijk"
+          },
+          {
+           "n": "Koen",
+           "sur": "Vermeulen",
+           "g": "m",
+           "b": "1977-02-12",
+           "u": [
+            {
+             "sp": {
+              "n": "Wende",
+              "sur": "Willems",
+              "g": "f",
+              "b": "1976-09-24"
+             },
+             "k": [
+              {
+               "n": "Pieter",
+               "sur": "Vermeulen",
+               "g": "m",
+               "b": "1999-10-23",
+               "m": "0489 / 70 86 75"
+              },
+              {
+               "n": "Nele",
+               "sur": "Vermeulen",
+               "g": "f",
+               "b": "2002-08-17"
+              },
+              {
+               "n": "Bart",
+               "sur": "Vermeulen",
+               "g": "m",
+               "b": "2006-09-17",
+               "m": "0477 / 66 33 45",
+               "e": "bart.vermeulen@telenet.be"
+              }
+             ],
+             "st": "ended",
+             "sep": true,
+             "tel": "058 / 42 49 95",
+             "adr": "49 Vaartstraat, 8000 Brugge"
+            }
+           ]
+          }
+         ],
+         "tel": "052 / 67 52 94",
+         "adr": "89 Kerkhofweg, 8500 Kortrijk"
+        }
+       ],
+       "m": "0498 / 51 20 79",
+       "e": "wout.vermeulen@telenet.be",
+       "tel": "056 / 82 82 72",
+       "adr": "88 Nieuwstraat, 8000 Brugge",
+       "mtr": "Tine Aerts",
+       "ptr": "Milan Beckers"
+      },
+      {
+       "n": "Leen",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1949-10-01",
+       "u": [
+        {
+         "sp": {
+          "n": "Lars",
+          "sur": "Maes",
+          "g": "m",
+          "b": "1946-08-27",
+          "after": {
+           "n": "Merel",
+           "sur": "Willems",
+           "g": "f",
+           "b": "1950-07-06"
+          }
+         },
+         "k": [
+          {
+           "n": "Els",
+           "sur": "Maes",
+           "g": "f",
+           "b": "1972-04-19",
+           "m": "0499 / 15 62 95",
+           "e": "els.maes@telenet.be"
+          },
+          {
+           "n": "Kobe",
+           "sur": "Maes",
+           "g": "m",
+           "b": "1975-04-01",
+           "u": [
+            {
+             "sp": {
+              "n": "Marieke",
+              "sur": "Claes",
+              "g": "f",
+              "b": "1976-12-24"
+             },
+             "k": [
+              {
+               "n": "Ann",
+               "sur": "Maes",
+               "g": "f",
+               "b": "2000-09-23"
+              },
+              {
+               "n": "Niels",
+               "sur": "Maes",
+               "g": "m",
+               "b": "2004-03-13",
+               "m": "0470 / 84 71 14",
+               "e": "niels.maes@telenet.be"
+              }
+             ],
+             "tel": "053 / 33 19 53",
+             "adr": "39 Nieuwstraat, 9000 Gent"
+            }
+           ]
+          }
+         ],
+         "st": "ended",
+         "sep": true,
+         "tel": "052 / 49 39 88",
+         "adr": "32 Vaartstraat, 2000 Antwerpen"
+        },
+        {
+         "sp": {
+          "n": "Niels",
+          "sur": "Claes",
+          "g": "m",
+          "b": "1951-04-22"
+         },
+         "k": [
+          {
+           "n": "Ferre",
+           "sur": "Claes",
+           "g": "m",
+           "b": "1984-06-12",
+           "u": [
+            {
+             "sp": {
+              "n": "Machteld",
+              "sur": "Vandenberghe",
+              "g": "f",
+              "b": "1978-01-08"
+             },
+             "k": [
+              {
+               "n": "Karel",
+               "sur": "Claes",
+               "g": "m",
+               "b": "2001-04-22"
+              }
+             ],
+             "tel": "056 / 82 33 78",
+             "adr": "10 Hoogstraat, 2800 Mechelen"
+            }
+           ],
+           "m": "0481 / 10 58 21",
+           "e": "ferre.claes@telenet.be",
+           "tel": "068 / 91 13 77",
+           "adr": "47 Lindenlaan, 9000 Gent"
+          },
+          {
+           "n": "Janne",
+           "sur": "Claes",
+           "g": "f",
+           "b": "1987-08-05"
+          }
+         ],
+         "tel": "056 / 71 87 20",
+         "adr": "54 Lindenlaan, 9000 Gent"
+        }
+       ]
+      },
+      {
+       "n": "Rita",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1952-01-02",
+       "u": [
+        {
+         "sp": {
+          "n": "Ward",
+          "sur": "Verhoeven",
+          "g": "m",
+          "b": "1950-12-10"
+         },
+         "k": [
+          {
+           "n": "Jolien",
+           "sur": "Verhoeven",
+           "g": "f",
+           "b": "1974-11-03",
+           "u": [
+            {
+             "sp": {
+              "n": "Seppe",
+              "sur": "Cools",
+              "g": "m",
+              "b": "1977-08-07"
+             },
+             "k": [
+              {
+               "n": "Hanne",
+               "sur": "Cools",
+               "g": "f",
+               "b": "1996-03-13",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Vic",
+                  "sur": "Segers",
+                  "g": "m",
+                  "b": "1995-11-09"
+                 },
+                 "k": [
+                  {
+                   "n": "Vic",
+                   "sur": "Segers",
+                   "g": "m",
+                   "b": "2021-01-01",
+                   "mtr": "Rita Peeters",
+                   "ptr": "Karel Vermeulen"
+                  }
+                 ],
+                 "tel": "053 / 84 15 91",
+                 "adr": "21 Hoogstraat, 9100 Sint-Niklaas"
+                }
+               ],
+               "m": "0493 / 30 91 58",
+               "e": "hanne.cools@telenet.be"
+              }
+             ],
+             "tel": "056 / 13 78 15",
+             "adr": "67 Hoogstraat, 9000 Gent"
+            }
+           ],
+           "m": "0487 / 30 82 47",
+           "e": "jolien.verhoeven@telenet.be",
+           "mtr": "Janne Segers",
+           "ptr": "Ward Segers"
+          }
+         ],
+         "tel": "057 / 18 49 50",
+         "adr": "18 Molenstraat, 9000 Gent"
+        }
+       ],
+       "m": "0496 / 11 19 49",
+       "e": "rita.vermeulen@telenet.be"
+      },
+      {
+       "n": "Jonas",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1955-04-20",
+       "u": [
+        {
+         "sp": {
+          "n": "Tine",
+          "sur": "Verhoeven",
+          "g": "f",
+          "b": "1947-12-02"
+         },
+         "k": [
+          {
+           "n": "Ann",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1976-06-03",
+           "u": [
+            {
+             "sp": {
+              "n": "Dirk",
+              "sur": "Aerts",
+              "g": "m",
+              "b": "1975-02-18"
+             },
+             "k": [
+              {
+               "n": "Joris",
+               "sur": "Aerts",
+               "g": "m",
+               "b": "1997-08-06",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Elke",
+                  "sur": "Hermans",
+                  "g": "f",
+                  "b": "1999-01-19"
+                 },
+                 "k": [
+                  {
+                   "n": "Nele",
+                   "sur": "Aerts",
+                   "g": "f",
+                   "b": "2021-07-24"
+                  },
+                  {
+                   "n": "Ward",
+                   "sur": "Aerts",
+                   "g": "m",
+                   "b": "2023-04-02"
+                  }
+                 ],
+                 "tel": "058 / 22 69 28",
+                 "adr": "32 Molenstraat, 8500 Kortrijk"
+                }
+               ],
+               "mtr": "Tine Lambrechts",
+               "ptr": "Tuur Maes"
+              }
+             ],
+             "tel": "057 / 73 26 53",
+             "adr": "56 Nieuwstraat, 8800 Roeselare"
+            }
+           ]
+          }
+         ],
+         "tel": "057 / 19 63 13",
+         "adr": "64 Lindenlaan, 9100 Sint-Niklaas"
+        }
+       ]
+      },
+      {
+       "n": "Lieve",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1959-08-11",
+       "u": [
+        {
+         "sp": {
+          "n": "Gert",
+          "sur": "Willems",
+          "g": "m",
+          "b": "1955-05-14"
+         },
+         "k": [
+          {
+           "n": "Hilde",
+           "sur": "Willems",
+           "g": "f",
+           "b": "1980-01-17",
+           "u": [
+            {
+             "sp": {
+              "n": "Pieter",
+              "sur": "Claes",
+              "g": "m",
+              "b": "1973-07-19"
+             },
+             "k": [
+              {
+               "n": "Rita",
+               "sur": "Claes",
+               "g": "f",
+               "b": "2000-12-08",
+               "m": "0480 / 23 35 33"
+              }
+             ],
+             "tel": "054 / 66 61 74",
+             "adr": "7 Vaartstraat, 9100 Sint-Niklaas"
+            }
+           ],
+           "m": "0483 / 63 28 41",
+           "e": "hilde.willems@telenet.be"
+          },
+          {
+           "n": "Bram",
+           "sur": "Willems",
+           "g": "m",
+           "b": "1980-01-17",
+           "u": [
+            {
+             "sp": {
+              "n": "Rita",
+              "sur": "Wouters",
+              "g": "f",
+              "b": "1978-05-09"
+             },
+             "k": [
+              {
+               "n": "Ferre",
+               "sur": "Willems",
+               "g": "m",
+               "b": "2001-10-28"
+              }
+             ],
+             "tel": "051 / 91 66 92",
+             "adr": "10 Lindenlaan, 9100 Sint-Niklaas"
+            }
+           ]
+          },
+          {
+           "n": "Hanne",
+           "sur": "Willems",
+           "g": "f",
+           "b": "1985-05-17"
+          }
+         ],
+         "tel": "052 / 18 26 39",
+         "adr": "62 Molenstraat, 8000 Brugge"
+        }
+       ],
+       "m": "0476 / 94 87 20",
+       "e": "lieve.vermeulen@telenet.be"
+      }
+     ],
+     "tel": "053 / 91 47 73",
+     "adr": "1 Molenstraat, 2800 Mechelen"
+    }
+   ]
+  },
+  {
+   "n": "Godelieve",
+   "sur": "Vermeulen",
+   "g": "f",
+   "b": "1921-08-15",
+   "dod": "2009-09-28",
+   "u": [
+    {
+     "sp": {
+      "n": "Hendrik",
+      "sur": "Peeters",
+      "g": "m",
+      "b": "1918-02-19",
+      "dod": "1954-02-13"
+     },
+     "k": [
+      {
+       "n": "Britt",
+       "sur": "Peeters",
+       "g": "f",
+       "b": "1948-05-14"
+      },
+      {
+       "n": "Karel",
+       "sur": "Peeters",
+       "g": "m",
+       "b": "1951-02-23",
+       "u": [
+        {
+         "sp": {
+          "n": "Bieke",
+          "sur": "Peeters",
+          "g": "f",
+          "b": "1947-10-03"
+         },
+         "k": [
+          {
+           "n": "Femke",
+           "sur": "Peeters",
+           "g": "f",
+           "b": "1974-05-14",
+           "m": "0470 / 93 64 18",
+           "e": "femke.peeters@telenet.be"
+          }
+         ],
+         "tel": "055 / 59 98 84",
+         "adr": "59 Nieuwstraat, 2800 Mechelen"
+        }
+       ],
+       "m": "0492 / 48 73 98",
+       "e": "karel.peeters@telenet.be",
+       "tel": "064 / 28 38 55",
+       "adr": "85 Statiestraat, 8800 Roeselare"
+      }
+     ],
+     "tel": "051 / 47 59 18",
+     "adr": "3 Lindenlaan, 3000 Leuven"
+    },
+    {
+     "k": [
+      {
+       "n": "Tom",
+       "sur": "Peeters",
+       "g": "m",
+       "b": "1956-06-25",
+       "dod": "2011-04-07"
+      },
+      {
+       "n": "Sofie",
+       "sur": "Peeters",
+       "g": "f",
+       "b": "1958-09-10",
+       "u": [
+        {
+         "sp": {
+          "n": "Dirk",
+          "sur": "Michiels",
+          "g": "m",
+          "b": "1946-09-01"
+         },
+         "k": [
+          {
+           "n": "Wende",
+           "sur": "Michiels",
+           "g": "f",
+           "b": "1975-01-08",
+           "u": [
+            {
+             "sp": {
+              "n": "Jeroen",
+              "sur": "Van Damme",
+              "g": "m",
+              "b": "1978-10-01"
+             },
+             "k": [
+              {
+               "n": "Godelieve",
+               "sur": "Van Damme",
+               "g": "f",
+               "b": "1998-08-18",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Thomas",
+                  "sur": "Coppens",
+                  "g": "m",
+                  "b": "1995-02-07"
+                 },
+                 "k": [
+                  {
+                   "n": "Ferre",
+                   "sur": "Coppens",
+                   "g": "m",
+                   "b": "2019-03-04"
+                  }
+                 ],
+                 "tel": "055 / 66 27 95",
+                 "adr": "54 Nieuwstraat, 8000 Brugge"
+                }
+               ],
+               "m": "0491 / 31 51 36"
+              }
+             ],
+             "tel": "052 / 39 11 97",
+             "adr": "37 Statiestraat, 8800 Roeselare"
+            }
+           ]
+          },
+          {
+           "n": "Lise",
+           "sur": "Michiels",
+           "g": "f",
+           "b": "1979-10-22",
+           "m": "0488 / 79 49 79",
+           "e": "lise.michiels@telenet.be",
+           "tel": "055 / 20 45 23",
+           "adr": "41 Molenstraat, 8500 Kortrijk"
+          }
+         ],
+         "tel": "057 / 42 11 57",
+         "adr": "39 Kerkhofweg, 3000 Leuven"
+        }
+       ],
+       "m": "0499 / 25 51 66",
+       "e": "sofie.peeters@telenet.be"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "Marcel",
+   "sur": "Vermeulen",
+   "g": "m",
+   "b": "1924-10-07",
+   "dod": "1991-03-26",
+   "u": [
+    {
+     "sp": {
+      "n": "Griet",
+      "sur": "De Smet",
+      "g": "f",
+      "b": "1926-06-01",
+      "after": {
+       "n": "Rik",
+       "sur": "Claes",
+       "g": "m",
+       "b": "1923-03-08",
+       "dod": "2010-09-26"
+      },
+      "dod": "1991-04-05"
+     },
+     "k": [
+      {
+       "n": "Stijn",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1950-01-16",
+       "u": [
+        {
+         "sp": {
+          "n": "Lotte",
+          "sur": "Lambrechts",
+          "g": "f",
+          "b": "1946-11-15"
+         },
+         "k": [
+          {
+           "n": "Saartje",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1975-07-22",
+           "u": [
+            {
+             "sp": {
+              "n": "Wout",
+              "sur": "Claes",
+              "g": "m",
+              "b": "1977-08-24"
+             },
+             "k": [
+              {
+               "n": "Jeroen",
+               "sur": "Claes",
+               "g": "m",
+               "b": "1999-10-20"
+              },
+              {
+               "n": "Frans",
+               "sur": "Claes",
+               "g": "m",
+               "b": "1996-01-14",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Britt",
+                  "sur": "Verhoeven",
+                  "g": "f",
+                  "b": "1994-12-17"
+                 },
+                 "k": [
+                  {
+                   "n": "Femke",
+                   "sur": "Claes",
+                   "g": "f",
+                   "b": "2019-08-04"
+                  },
+                  {
+                   "n": "Daan",
+                   "sur": "Claes",
+                   "g": "m",
+                   "b": "2023-10-28"
+                  }
+                 ],
+                 "tel": "055 / 45 44 88",
+                 "adr": "88 Vaartstraat, 8000 Brugge"
+                }
+               ],
+               "m": "0482 / 64 77 47",
+               "e": "frans.claes@telenet.be"
+              }
+             ],
+             "tel": "056 / 77 88 30",
+             "adr": "69 Vaartstraat, 3000 Leuven"
+            }
+           ]
+          }
+         ],
+         "tel": "054 / 35 91 65",
+         "adr": "26 Vaartstraat, 9100 Sint-Niklaas"
+        }
+       ]
+      },
+      {
+       "n": "Milan",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1953-12-13",
+       "m": "0488 / 86 97 45",
+       "e": "milan.vermeulen@telenet.be"
+      },
+      {
+       "n": "Elke",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1957-02-19",
+       "u": [
+        {
+         "sp": {
+          "n": "Maarten",
+          "sur": "Lambrechts",
+          "g": "m",
+          "b": "1949-04-05"
+         },
+         "k": [
+          {
+           "n": "Gustaaf",
+           "sur": "Lambrechts",
+           "g": "m",
+           "b": "1974-12-03",
+           "u": [
+            {
+             "sp": {
+              "n": "Inge",
+              "sur": "Beckers",
+              "g": "f",
+              "b": "1974-10-19"
+             },
+             "k": [
+              {
+               "n": "Machteld",
+               "sur": "Lambrechts",
+               "g": "f",
+               "b": "1997-08-14",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Jeroen",
+                  "sur": "Goossens",
+                  "g": "m",
+                  "b": "1998-09-21"
+                 },
+                 "k": [
+                  {
+                   "n": "Lieve",
+                   "sur": "Goossens",
+                   "g": "f",
+                   "b": "2019-01-09"
+                  }
+                 ],
+                 "tel": "054 / 64 13 89",
+                 "adr": "5 Molenstraat, 3000 Leuven"
+                }
+               ]
+              }
+             ],
+             "tel": "059 / 50 34 37",
+             "adr": "25 Molenstraat, 2000 Antwerpen"
+            }
+           ],
+           "m": "0490 / 93 28 22",
+           "e": "gustaaf.lambrechts@telenet.be"
+          },
+          {
+           "n": "Wim",
+           "sur": "Lambrechts",
+           "g": "m",
+           "b": "1978-02-15"
+          }
+         ],
+         "tel": "057 / 45 37 62",
+         "adr": "49 Nieuwstraat, 8800 Roeselare"
+        }
+       ]
+      }
+     ],
+     "st": "ended",
+     "sep": true,
+     "tel": "051 / 11 17 69",
+     "adr": "63 Kerkhofweg, 3000 Leuven"
+    },
+    {
+     "sp": {
+      "n": "Roos",
+      "sur": "Michiels",
+      "g": "f",
+      "b": "1934-04-24",
+      "dod": "2012-05-26"
+     },
+     "k": [
+      {
+       "n": "Noor",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1966-04-25",
+       "u": [
+        {
+         "sp": {
+          "n": "Tuur",
+          "sur": "Coppens",
+          "g": "m",
+          "b": "1945-06-03"
+         },
+         "k": [
+          {
+           "n": "Luc",
+           "sur": "Coppens",
+           "g": "m",
+           "b": "1974-11-23",
+           "u": [
+            {
+             "sp": {
+              "n": "Veerle",
+              "sur": "Maes",
+              "g": "f",
+              "b": "1977-05-13"
+             },
+             "k": [
+              {
+               "n": "Thomas",
+               "sur": "Coppens",
+               "g": "m",
+               "b": "1998-05-17",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Marieke",
+                  "sur": "Maes",
+                  "g": "f",
+                  "b": "1995-02-22"
+                 },
+                 "k": [
+                  {
+                   "n": "Roos",
+                   "sur": "Coppens",
+                   "g": "f",
+                   "b": "2019-08-16"
+                  }
+                 ],
+                 "tel": "055 / 36 53 53",
+                 "adr": "64 Kerkhofweg, 9000 Gent"
+                }
+               ],
+               "m": "0478 / 17 70 49"
+              }
+             ],
+             "tel": "052 / 35 61 90",
+             "adr": "88 Lindenlaan, 9000 Gent"
+            }
+           ],
+           "m": "0493 / 93 64 41",
+           "e": "luc.coppens@telenet.be"
+          }
+         ],
+         "tel": "054 / 83 55 49",
+         "adr": "84 Lindenlaan, 2000 Antwerpen"
+        }
+       ],
+       "m": "0484 / 77 49 68",
+       "e": "noor.vermeulen@telenet.be",
+       "tel": "063 / 61 76 41",
+       "adr": "11 Statiestraat, 8800 Roeselare"
+      },
+      {
+       "n": "Senne",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1969-05-11",
+       "u": [
+        {
+         "sp": {
+          "n": "Lien",
+          "sur": "Mertens",
+          "g": "f",
+          "b": "1947-01-25"
+         },
+         "k": [
+          {
+           "n": "Mieke",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1975-11-04",
+           "u": [
+            {
+             "sp": {
+              "n": "Rik",
+              "sur": "Verhoeven",
+              "g": "m",
+              "b": "1977-02-23"
+             },
+             "k": [
+              {
+               "n": "Daan",
+               "sur": "Verhoeven",
+               "g": "m",
+               "b": "1999-07-20"
+              }
+             ],
+             "tel": "053 / 19 71 23",
+             "adr": "4 Lindenlaan, 2800 Mechelen"
+            }
+           ]
+          },
+          {
+           "n": "Jeroen",
+           "sur": "Vermeulen",
+           "g": "m",
+           "b": "1977-11-18",
+           "u": [
+            {
+             "sp": {
+              "n": "Leen",
+              "sur": "Aerts",
+              "g": "f",
+              "b": "1977-02-07"
+             },
+             "k": [
+              {
+               "n": "Saartje",
+               "sur": "Vermeulen",
+               "g": "f",
+               "b": "1996-05-12",
+               "u": [
+                {
+                 "sp": {
+                  "n": "Robbe",
+                  "sur": "Vandenberghe",
+                  "g": "m",
+                  "b": "1999-04-15"
+                 },
+                 "k": [
+                  {
+                   "n": "Maarten",
+                   "sur": "Vandenberghe",
+                   "g": "m",
+                   "b": "2020-03-12"
+                  },
+                  {
+                   "n": "Elke",
+                   "sur": "Vandenberghe",
+                   "g": "f",
+                   "b": "2024-05-18"
+                  }
+                 ],
+                 "tel": "052 / 64 93 57",
+                 "adr": "75 Molenstraat, 2800 Mechelen"
+                }
+               ],
+               "m": "0493 / 24 48 92",
+               "e": "saartje.vermeulen@telenet.be"
+              }
+             ],
+             "tel": "059 / 17 27 97",
+             "adr": "60 Molenstraat, 9000 Gent"
+            }
+           ],
+           "m": "0492 / 38 72 76",
+           "e": "jeroen.vermeulen@telenet.be",
+           "tel": "067 / 60 54 53",
+           "adr": "43 Kerkhofweg, 2800 Mechelen"
+          }
+         ],
+         "tel": "055 / 19 97 35",
+         "adr": "26 Nieuwstraat, 8000 Brugge"
+        }
+       ]
+      }
+     ],
+     "tel": "052 / 63 92 59",
+     "adr": "15 Hoogstraat, 9100 Sint-Niklaas"
+    }
+   ]
+  },
+  {
+   "n": "Anneke",
+   "sur": "Vermeulen",
+   "g": "f",
+   "y": 1927,
+   "ay": true,
+   "m": "0495 / 33 22 67",
+   "e": "anneke.vermeulen@telenet.be",
+   "tel": "062 / 21 78 98",
+   "adr": "82 Lindenlaan, 9100 Sint-Niklaas"
+  },
+  {
+   "n": "Frans",
+   "sur": "Vermeulen",
+   "g": "m",
+   "b": "1930-09-16",
+   "dod": "2016-11-20",
+   "u": [
+    {
+     "sp": {
+      "n": "Veerle",
+      "sur": "Janssens",
+      "g": "f",
+      "b": "1933-03-07",
+      "dod": "2019-08-09"
+     },
+     "k": [
+      {
+       "n": "Inge",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1954-01-09",
+       "u": [
+        {
+         "sp": {
+          "n": "Joris",
+          "sur": "Peeters",
+          "g": "m",
+          "b": "1949-08-18"
+         },
+         "k": [
+          {
+           "n": "Marieke",
+           "sur": "Peeters",
+           "g": "f",
+           "b": "1976-04-09",
+           "u": [
+            {
+             "sp": {
+              "n": "Joris",
+              "sur": "Coppens",
+              "g": "m",
+              "b": "1976-07-17"
+             },
+             "k": [
+              {
+               "n": "Pieter",
+               "sur": "Coppens",
+               "g": "m",
+               "b": "2001-10-12"
+              }
+             ],
+             "tel": "050 / 91 99 15",
+             "adr": "26 Kerkhofweg, 9100 Sint-Niklaas"
+            }
+           ]
+          }
+         ],
+         "tel": "055 / 79 99 76",
+         "adr": "65 Kerkhofweg, 9100 Sint-Niklaas"
+        }
+       ],
+       "m": "0470 / 56 96 60",
+       "e": "inge.vermeulen@telenet.be"
+      },
+      {
+       "n": "Robbe",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1956-05-01",
+       "u": [
+        {
+         "sp": {
+          "n": "Machteld",
+          "sur": "Maes",
+          "g": "f",
+          "b": "1945-07-24"
+         },
+         "k": [
+          {
+           "n": "Maaike",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1975-08-07",
+           "m": "0485 / 78 19 89",
+           "e": "maaike.vermeulen@telenet.be"
+          }
+         ],
+         "tel": "050 / 58 80 82",
+         "adr": "84 Statiestraat, 2800 Mechelen"
+        }
+       ]
+      },
+      {
+       "n": "Nele",
+       "sur": "Vermeulen",
+       "g": "f",
+       "b": "1961-03-13",
+       "m": "0488 / 59 34 82",
+       "e": "nele.vermeulen@telenet.be"
+      },
+      {
+       "n": "Daan",
+       "sur": "Vermeulen",
+       "g": "m",
+       "b": "1964-11-19",
+       "u": [
+        {
+         "sp": {
+          "n": "Inge",
+          "sur": "Claes",
+          "g": "f",
+          "b": "1948-12-28"
+         },
+         "k": [
+          {
+           "n": "Inge",
+           "sur": "Vermeulen",
+           "g": "f",
+           "b": "1976-04-13",
+           "u": [
+            {
+             "sp": {
+              "n": "Gert",
+              "sur": "Verhoeven",
+              "g": "m",
+              "b": "1975-07-07"
+             },
+             "k": [
+              {
+               "n": "Rita",
+               "sur": "Verhoeven",
+               "g": "f",
+               "b": "2002-09-26",
+               "m": "0474 / 32 17 68"
+              }
+             ],
+             "tel": "050 / 51 20 90",
+             "adr": "52 Vaartstraat, 8800 Roeselare"
+            }
+           ]
+          }
+         ],
+         "tel": "051 / 49 78 51",
+         "adr": "34 Lindenlaan, 8800 Roeselare"
+        }
+       ]
+      }
+     ],
+     "st": "together",
+     "tel": "050 / 88 52 47",
+     "adr": "50 Molenstraat, 9000 Gent"
+    }
+   ]
+  }
+ ]
+}
